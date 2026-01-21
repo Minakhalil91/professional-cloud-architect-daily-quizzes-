@@ -1,0 +1,5 @@
+{
+  "name": "PCA Daily Bot Dashboard",
+  "description": "A study management application for Google Cloud Professional Cloud Architect (PCA) certification. It generates daily exam-style questions, includes case study references, and allows previewing messages for Google Chat integration.",
+  "requestFramePermissions": []
+}
